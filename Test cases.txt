@@ -1,0 +1,22 @@
+Case 1:
+
+Question:
+When was DecodeLabs founded?
+Output:
+Answer: 2020
+Citation: Paragraph 1
+
+Case 2:
+
+Question:
+What does DecodeLabs specialize in?
+Output:
+Answer: AI training and software development
+Citation: Paragraph 2
+
+Case 3:
+
+Question:
+Who is the CEO of DecodeLabs?
+Output:
+Information Not Found
